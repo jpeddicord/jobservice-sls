@@ -1,7 +1,0 @@
-include jobservice
-include COPYING
-include NEWS
-include com.ubuntu.*
-recursive-include sls *.xml
-recursive-include helpers *
-recursive-include doc *
