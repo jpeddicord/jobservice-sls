@@ -1,4 +1,0 @@
-sls/*.xml
-po/POTFILES.in
-dist
-*.tar.gz
